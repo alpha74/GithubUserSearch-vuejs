@@ -25,4 +25,4 @@ By [@alpha74](https://www.github.com/alpha74)
 
 ### Screenshot
 
-<img width="1241" alt="image" src="https://github.com/alpha74/GithubUserSearch-vuejs/assets/31771552/e42dc17c-a45c-4d91-ba64-036f477afa82">
+<img width="1271" alt="image" src="https://github.com/alpha74/GithubUserSearch-vuejs/assets/31771552/6ceaddaf-1991-4df6-b681-8905ba39e972">
