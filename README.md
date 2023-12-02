@@ -2,8 +2,9 @@
 
 By [@alpha74](https://www.github.com/alpha74)
 
-- ALapp made as frontend application using Vue.
+- App is made using Vuejs, HTML, and Bootstrap.
 - Uses Vue CDN.
+- Uses Bootstrap CDN.
 - All features are read only.
 - Github API used applies rate limiting.
 
